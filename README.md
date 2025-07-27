@@ -45,5 +45,5 @@ If you have a UI screenshot, replace `screenshot.png` and uncomment below:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **APACHE License**.  
 Feel free to use, modify, and share with attribution.
