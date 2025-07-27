@@ -3,7 +3,7 @@
 
 This project uses **machine learning** to detect **fake job listings** by analyzing their content. It’s trained on real-world data and provides an easy-to-use interface to test job descriptions.
 
-### 🚀 [Live Demo →](https://fake-job-posting-detector-ncj9aqp4fxtc9fob56dyhm.streamlit.app/)
+### 🚀 [Live Demo →](https://github.com)
 
 ---
 
